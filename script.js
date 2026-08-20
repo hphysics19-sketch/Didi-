@@ -136,7 +136,7 @@ function createPuzzle() {
             const row = Math.floor((value - 1) / 3);
             const col = (value - 1) % 3;
 
-            tile.style.backgroundImage = "url('puzzle.jpg')";
+            tile.style.backgroundImage = "url('IMG_0413.jpeg')";
             tile.style.backgroundSize = "300px 300px";
 
             tile.style.backgroundPosition =
